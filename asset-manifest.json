@@ -1,13 +1,13 @@
 {
-  "main.css": "/ahmetenesce.github.io/static/css/main.bea7be45.chunk.css",
-  "main.js": "/ahmetenesce.github.io/static/js/main.f6817a34.chunk.js",
-  "main.js.map": "/ahmetenesce.github.io/static/js/main.f6817a34.chunk.js.map",
-  "runtime~main.js": "/ahmetenesce.github.io/static/js/runtime~main.b86d4fbf.js",
-  "runtime~main.js.map": "/ahmetenesce.github.io/static/js/runtime~main.b86d4fbf.js.map",
-  "static/js/2.fd965b05.chunk.js": "/ahmetenesce.github.io/static/js/2.fd965b05.chunk.js",
-  "static/js/2.fd965b05.chunk.js.map": "/ahmetenesce.github.io/static/js/2.fd965b05.chunk.js.map",
-  "index.html": "/ahmetenesce.github.io/index.html",
-  "precache-manifest.e834a31214ed864c02831adabf08ede6.js": "/ahmetenesce.github.io/precache-manifest.e834a31214ed864c02831adabf08ede6.js",
-  "service-worker.js": "/ahmetenesce.github.io/service-worker.js",
-  "static/css/main.bea7be45.chunk.css.map": "/ahmetenesce.github.io/static/css/main.bea7be45.chunk.css.map"
+  "main.css": "/site/static/css/main.bea7be45.chunk.css",
+  "main.js": "/site/static/js/main.9f0d80ca.chunk.js",
+  "main.js.map": "/site/static/js/main.9f0d80ca.chunk.js.map",
+  "runtime~main.js": "/site/static/js/runtime~main.c4b54bfd.js",
+  "runtime~main.js.map": "/site/static/js/runtime~main.c4b54bfd.js.map",
+  "static/js/2.fd965b05.chunk.js": "/site/static/js/2.fd965b05.chunk.js",
+  "static/js/2.fd965b05.chunk.js.map": "/site/static/js/2.fd965b05.chunk.js.map",
+  "index.html": "/site/index.html",
+  "precache-manifest.cd377a5017556ec1ac929ea057a73956.js": "/site/precache-manifest.cd377a5017556ec1ac929ea057a73956.js",
+  "service-worker.js": "/site/service-worker.js",
+  "static/css/main.bea7be45.chunk.css.map": "/site/static/css/main.bea7be45.chunk.css.map"
 }
